@@ -14,7 +14,6 @@ This project analyzes T20 World Cup data from 2014 to 2026, covering 230 matches
 - 📣 Team Analysis
 - 🏏 Batting Analysis
 - 🎯 Bowling Analysis
-- 👤 Player Analysis
 
 ## Key Features
 
